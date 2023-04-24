@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app-Cadastro-Cliente</string>
+    <string name="cadastro_de_cliente">Cadastro de cliente</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="finalizar">FINALIZAR</string>
+    <string name="cpf">CPF</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="nome_completo">Nome Completo</string>
+</resources>
