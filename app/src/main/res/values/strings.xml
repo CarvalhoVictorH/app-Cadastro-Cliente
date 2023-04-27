@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">app-Cadastro-Cliente</string>
+    <string name="app_name">App-Cadastro-Cliente</string>
     <string name="cadastro_de_cliente">Cadastro de cliente</string>
     <string name="limpar">LIMPAR</string>
     <string name="enviar">ENVIAR</string>
